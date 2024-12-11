@@ -7,9 +7,9 @@ This guide explains how to set up a Playwright and Typescript testing framework,
 
 ## Project Setup
 
-### Step 1: Clone the project from github
+### Step 1: ### Clone project from github
 
-- Clone the project from the repository into a folder
+- Clone the project from the repository into a folder 
 
 ### Step 2: ### Prerequisites
 
