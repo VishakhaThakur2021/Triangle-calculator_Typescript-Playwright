@@ -30,8 +30,10 @@ This guide explains how to set up a Playwright and Typescript testing framework,
 
 - go to terminal > go to project folder> npx playwright test
   
+### To generate HTML report
 
-HTML report will be automatically generated in browser.
+- npx playwright test --headed 
+- npx playwright test --reporter=html
 <img width="746" alt="10" src="https://github.com/user-attachments/assets/a7e3ebe1-5884-4909-a0b3-46011c4b6ab1" />
 
 
