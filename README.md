@@ -17,9 +17,9 @@ This guide explains how to set up a Playwright and Typescript testing framework,
 - Download - https://nodejs.org/en
 
 ### Step 3: ### To initializes and install Playwright project with the latest version of the Playwright library.
-
 - npm init playwright@latest
-- 
+- If you only want to install Playwright without initializing a project:
+- npm install -D @playwright/test.
 <img width="950" alt="1" src="https://github.com/user-attachments/assets/10b791b0-31fa-4660-a0eb-5d2413767d2d" />
 
 
